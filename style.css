@@ -2,23 +2,32 @@ body {
     color: white;
     background: black;
     margin: 0px;
-}
-
-header {
-    border-bottom: solid 2px rgb(228, 42, 42);
+    font-family: "Chakra Petch", sans-serif;
+  }
+  
+  header {
+    border-bottom: solid 2px rgb(241, 40, 40);
     padding: 20px;
     font-size: 32px;
-    color: rgb(241, 238, 41);
-}
-
-section {
-    background: rgb(255, 25, 25);
+    color: rgb(236, 233, 39);
+  }
+  
+  section {
+    background: rgb(241, 40, 40);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
-}
-
-.chamada-texto {
+  }
+  
+  .chamada-texto {
     margin-right: 5%;
-}
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
