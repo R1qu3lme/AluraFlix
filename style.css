@@ -23,7 +23,12 @@ body {
   .chamada-texto {
     margin-right: 5%;
   }
-  
+  /* código omitido */
+
+.categoria {
+  padding-left: 20px;
+  padding-right: 20px;
+}
   h1 {
     font-size: 40px;
   }
